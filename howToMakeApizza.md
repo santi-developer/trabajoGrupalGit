@@ -1,5 +1,20 @@
 1. preparacion pizza champiñones
 
+1.1 Ingredientes:
+1.1.1 250 g de harina
+1.1.2 15 g levadura
+1.1.3 125 mL agua
+1.1.4 150 g queso motsarella
+1.1.5 1 lata de champiñones encurtidos
+1.1.6 150 mL salsa de tomate
+1.1.7 una pizca de sal
+1.1.8 una cucharadita de aceite
+1.1.9 2 cebollas grandes
+1.1.10 1 pizca de pimienta 
+1.1.11 9 aceitunas
+1.1.12 50 mL de aceite de oliva virgen extra
+1.1.13 100 g de queso parmesano
+
 1.2 prepara la masa para la pizza 
 1.2.1 Preparar la levadura mezclar la levadura con agua tibia y un poquito de azucar
 1.2.2 Mezclar los ingredientes secos En un tazón grande, mezclar la harina y la sal
@@ -15,6 +30,11 @@
 1.4.4 al pasar 20 minutos, giramos la pizza
 1.4.5 al pasar 40 minutos sacamos la pizza del horno
 1.4.6 Colocamos la pizza sobre la caja
+1.4.6 Colocamos la pizza sobre la caja
 1.4.7 Usamos la rebanadora de pizza y cortamos a la mitad
 1.4.8 cortamos de tal forma que ambos cortes nos queden como una cruz
 1.4.9 hacemos otros 2 cortes hasta que nos queden 8 piezas 
+
+
+
+
