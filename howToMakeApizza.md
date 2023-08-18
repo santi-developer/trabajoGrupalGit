@@ -23,6 +23,11 @@
 1.2.5 Formar una bola: Forma la masa en una bola y colócala en un tazón ligeramente engrasado con aceite de oliva. Cubre el tazón con un paño limpio o envoltura de plástico y deja reposar en un lugar cálido durante aproximadamente 1 o 2 horas
 1.2.6 Preparar la masa para pizza: Una vez que la masa ha fermentado adecuadamente, vuelve a amasarla brevemente para eliminar el aire acumulado.
 1.2.7 agregar ingredientes adicional
+1.3 ingredientes
+1.3.1 agrgar salsa a la masa
+1.3.2 agregar peperoni, cebolla y champiñones
+1.3.2 agregar quezo mozarella y aceitunas
+1.3.3 lista la pizza para el horneado
 1.4 Horneado de la pizza,
 1.4.1 Encendemos el horno a 180 grados
 1.4.2 Dejamos precalentar el horno por 5 minutos.
